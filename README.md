@@ -8,10 +8,7 @@
 
 1. [CROWD CONTROL](https://explorer.oshvank.xyz/Cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-14 
 
-
 #
-#
-
 
 ## 🔴 END
 
